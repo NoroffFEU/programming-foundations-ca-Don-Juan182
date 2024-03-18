@@ -11,6 +11,6 @@ This object has the following properties:
 -ParkingMode (Boolean), indicates if the parking mode is activated or not
 -appsInstalled (Array or/and strings), lists the names of applications installed in the vehicle´s system
 
-Additionallly, this object inclues a function that technically a method since it is associated with an object.
+Additionallly, this object inclues a function that technically is a method since it is associated with an object.
 
 -activateParkingMode (function), a method that checks if the ParkingMode property is true. If it is, the vehicle´s engine is truned off, and "Engine stopped" is logged to the console. It is a simulation.
